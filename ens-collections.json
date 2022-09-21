@@ -1533,6 +1533,18 @@
       "csv": [
         "base-single-ethmoji.csv"
       ]
+    },
+    {
+      "name": "7 Digit Palindromes",
+      "slug": "7-digit-palindromes",
+      "description": "7 Digit Numbers that read the same backwards or forwards.",
+      "twitter": "7DPalindromes",
+      "chat": "",
+      "website": "",
+      "logo": "7-digit-palindromes.png",
+      "csv": [
+        "7-digit-palindromes.csv"
+      ]
     }
   ]
 }
